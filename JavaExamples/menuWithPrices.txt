@@ -1,0 +1,8 @@
+Onion Rings	2.5
+French Fries	2.4
+Hamburger	2.3
+Steak	2.2
+Chicken	2.1
+Shrimp	2.0
+Ice Cream	2.6
+Soda	7.8
